@@ -24,13 +24,6 @@ Je suis un développeur passionné par la création d'outils performants, qu'il 
 
 ---
 
-### 📊 Mes Statistiques GitHub
-
-![Stats de Nevek](https://github-readme-stats.vercel.app/api?username=N3vek&show_icons=true&theme=radical)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=N3vek&layout=compact&theme=radical)
-
----
-
 ### 📫 Me contacter
 
 * **Discord :** `nevek.off`
