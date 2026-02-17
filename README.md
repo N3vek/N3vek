@@ -1,37 +1,40 @@
-<h1 align="center">N3vek</h1>
-<p align="center">
-  <i>Dark vibes • FiveM Dev • Discord Bots • Web • Security</i>
-</p>
+# Salut, moi c'est Nevek ! 👋
+
+Je suis un développeur passionné par la création d'outils performants, qu'il s'agisse de bots, de scripts système ou d'interfaces web. Mon terrain de jeu favori ? L'automatisation et l'univers du gaming.
 
 ---
 
-### 🕶️ About
-- 🧠 Into: **security, scripting, automation, systems**
-- 🎮 FiveM dev: **Lua / ESX / QBCore / scripts**
-- 🤖 Discord bots: **Node.js / Python**
-- 🌐 Web: **front + back**
-- ⚡ Motto: *"Stay quiet. Build sharp."*
+### 🚀 Ce que je fais au quotidien
+
+* **Bots Discord :** Conception de bots complexes et réactifs en **Python** (discord.py / nextcord) et **Node.js** (discord.js).
+* **FiveM :** Développement de scripts et optimisation pour serveurs GTA V.
+* **Web Development :** Création d'interfaces modernes et fonctionnelles.
+* **Outils CLI :** Développement de logiciels en ligne de commande pour automatiser les tâches répétitives.
+* **Game Launchers :** Création de launchers personnalisés pour tout type de jeux (optimisation, mises à jour auto, etc.).
 
 ---
 
-### 🧩 Skills
-- 🐍 Python
-- 🟦 JavaScript / Node.js
-- 🎮 Lua (FiveM)
-- 🖥️ Bash / Linux
-- 🌐 HTML / CSS / APIs
-- 🔐 Security fundamentals
+### 🛠 Mon Stack Technique
+
+| Domaine | Technologies |
+| :--- | :--- |
+| **Langages** | Python, JavaScript (Node.js), HTML/CSS |
+| **Gaming** | FiveM (Lua/JS), Game Launchers |
+| **Outils** | Git, CLI, Bash |
 
 ---
 
-### 🗃️ Projects
-- 🎮 **fivem-scripts** — FiveM scripts (ESX/QBCore)
-- 🤖 **discord-bots** — bots & automation tools
-- 🌑 **tools-lab** — small utilities (Python/Bash)
-- 🌐 **web-lab** — websites & backend experiments
-- 🧪 **ctf-notes** — notes + writeups (clean & legal)
+### 📊 Mes Statistiques GitHub
+
+![Stats de Nevek](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_ICI&show_icons=true&theme=radical)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO_ICI&layout=compact&theme=radical)
 
 ---
 
-### 📡 Contact
-- GitHub: **@N3vek**
+### 📫 Me contacter
+
+* **Discord :** `nevek.off`
+
+
+---
+*Dernière mise à jour : Février 2026*
